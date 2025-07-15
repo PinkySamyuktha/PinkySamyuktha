@@ -1,17 +1,16 @@
 <!-- 👩‍💻 HEADER -->
 # Hi, I’m Sai Pinky Samyuktha Velpuri 👩‍⚕️💻
-**Healthcare Data Analyst** |**Informatics Specialist** | **MS in Health Informatics** | **PharmD**
 
 Healthcare data enthusiast with a fusion of **clinical experience** and **informatics expertise**—delivering data-backed insights to support patient care, decision-making, and digital health solutions.
 
 ---
 
 <!-- 🛠️ SKILLS & TOOLS -->
-### 🔧 Technical skills & Tools                              
-Programming & Analysis - Python, R, SQL, SAS, SPSS, Excel, Tableau
-Healthcare Systems - EHR, CDSS, EMR Workflows, ICD‑10, Cybersecurity
-ML & NLP - Pandas, NumPy, Matplotlib, NER, QA system
-Productivity & Versioning - Jupyter Notebooks, Google Workspace, MS Office
+# 🔧 Technical skills & Tools                              
+*Programming & Analysis - Python, R, SQL, SAS, SPSS, Excel, Tableau*
+*Healthcare Systems - EHR, CDSS, EMR Workflows, ICD‑10, Cybersecurity*
+*ML & NLP - Pandas, NumPy, Matplotlib, NER, QA system*
+*Productivity & Versioning - Jupyter Notebooks, Google Workspace, MS Office*
 
 ---
 
