@@ -7,10 +7,10 @@ Healthcare data enthusiast with a fusion of **clinical experience** and **inform
 
 <!-- 🛠️ SKILLS & TOOLS -->
 # 🔧 Technical skills & Tools                              
-*Programming & Analysis - Python, R, SQL, SAS, SPSS, Excel, Tableau*
-*Healthcare Systems - EHR, CDSS, EMR Workflows, ICD‑10, Cybersecurity*
-*ML & NLP - Pandas, NumPy, Matplotlib, NER, QA system*
-*Productivity & Versioning - Jupyter Notebooks, Google Workspace, MS Office*
+- Programming & Analysis - Python, R, SQL, SAS, SPSS, Excel, Tableau
+- Healthcare Systems - EHR, CDSS, EMR Workflows, ICD‑10, Cybersecurity
+- ML & NLP - Pandas, NumPy, Matplotlib, NER, QA system
+- Productivity & Versioning - Jupyter Notebooks, Google Workspace, MS Office
 
 ---
 
