@@ -54,37 +54,30 @@ currently seeking **full-time roles**
 
 ## 📚 Academic Projects
 
-1. **Python – Medical Question Answering System**
-   - Built an AI-based QA system using the MedQuAD dataset.
-   - Applied Named Entity Recognition and Naive Bayes classifier for identifying entities and predicting answers.
+### 1. Health Data Analytics (SAS)
+Analyzed drug efficacy across 3,400 patient records to assess treatment group differences. Used statistical tools in SAS to perform ANOVA and validate results at a 95% confidence level.
 
-2. **Advanced Python – Blood Pressure Analysis**
-   - Used statistical modeling and visualizations to study the impact of lifestyle factors on BP.
-   - Explored regression, correlation, and plotted distributions using Matplotlib and Seaborn.
+### 2. Blood Pressure Analysis (Advanced Python)
+Developed a predictive model to examine the relationship between lifestyle habits and blood pressure. Utilized pandas, matplotlib, seaborn, and sklearn for EDA, regression modeling, and visualization.
 
-3. **SQL – Healthcare Management System**
-   - Designed a normalized relational database integrating patient, billing, and appointment modules.
-   - Used complex queries, joins, and constraints to manage EHR data efficiently.
+### 3. Enhancing Medical QA System (NLP with Python)
+Built an AI-powered medical question-answering system using Named Entity Recognition and Naive Bayes Classifier. Applied NLP preprocessing and the MedQuAD dataset to improve QA performance.
 
-4. **SAS – Health Data Analytics**
-   - Analyzed drug effectiveness using a dataset of 3,400 patients.
-   - Performed statistical tests (PROC TTEST, PROC ANOVA) to compare treatment groups with 95% CI.
+### 4. Hospital LOS Comparison (SPSS)
+Evaluated whether hospital length of stay differs across three departments. Used descriptive stats, normality tests, Levene’s test, and ANOVA in SPSS to draw significant conclusions.
 
-5. **SPSS – Hospital Length of Stay Analysis**
-   - Compared LOS across three departments using ANOVA and Levene’s test.
-   - Ensured assumptions of normality and homogeneity were validated using SPSS.
+### 5. Healthcare Management System (SQL)
+Created a normalized SQL database to manage patient data, billing, scheduling, and EHR workflows. Focused on relational integrity, data types, constraints, and realistic table interlinking.
 
-6. **R – Splicing Factor Expression in Cancer**
-   - Performed EDA on gene splicing data using ggplot2.
-   - Built a predictive model using Random Forest to classify cancer types based on gene expression.
+### 6. Blood Pressure Analytics (Python)
+Performed regression analysis and visualizations to identify patterns between blood pressure and key lifestyle indicators. Used seaborn, matplotlib, and statsmodels for EDA and modeling.
 
-7. **NLP – MedQuAD Question Answering Project**
-   - Implemented NER-based question tagging and response generation.
-   - Used BERT and Sentence-BERT for semantic search and embedding.
+### 7. Splicing Factor Gene Analysis (R)
+Conducted exploratory data analysis on splicing factor gene expression in cancer datasets. Used `ggplot2` for visualizations and `randomForest` for classification and pattern recognition.
 
-8. **PharmD – Cerecetam Study on CVA Patients**
-   - Conducted a clinical research study on Aphasia patients treated with Cerecetam.
-   - Analyzed improvements in speech recovery and side-effect profiles, leading to published findings.
+### 8. Study of Cerecetam on Aphasia in CVA Patients (PharmD Research)
+Led a clinical research study to evaluate the effects of Cerecetam on aphasia in stroke patients. Monitored speech recovery, documented outcomes, and supported publication in peer-reviewed journal.
+
 ---
 
 ## 📄 Publications
