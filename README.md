@@ -4,6 +4,7 @@
 🎓 Doctor of Pharmacy (Pharm.D) | 🎓 MS in Health Informatics  
 💊 Healthcare | 📊 Health Analytics | 💡 Clinical Informatics
 📍Based in New Brunswick, New Jersey | Open to Healthcare, Pharma & HealthTech roles
+
 ---
 
 ## 👩‍⚕️ About Me
