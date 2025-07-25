@@ -57,7 +57,7 @@ currently seeking **full-time roles**
 ### 1. Health Data Analytics (SAS)
 Analyzed drug efficacy across 3,400 patient records to assess treatment group differences. Used statistical tools in SAS to perform ANOVA and validate results at a 95% confidence level.
 
-### 2. Blood Pressure Analysis (Advanced Python)
+### 2. Hypertension Risk Prediction (Advanced Python)
 Developed a predictive model to examine the relationship between lifestyle habits and blood pressure. Utilized pandas, matplotlib, seaborn, and sklearn for EDA, regression modeling, and visualization.
 
 ### 3. Enhancing Medical QA System (NLP with Python)
