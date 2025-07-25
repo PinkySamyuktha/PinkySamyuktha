@@ -17,7 +17,9 @@ I specialize in:
 - Predictive modeling
 - Decision support systems
 - EHR/CDSS systems
+
 currently seeking **full-time roles**
+
 ---
 
 ## 💼 Work Experience
