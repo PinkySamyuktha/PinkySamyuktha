@@ -117,4 +117,4 @@ English | Telugu | Hindi | Basic Spanish
 
 📧 Email: [saipinkysamyuktha@gmail.com]  
 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/dr-pinkysamyuktha)  
-🌍 GitHub: [github.com/your-username](https://github.com/PinkySamyuktha)
+🌍 GitHub: (https://github.com/PinkySamyuktha)
