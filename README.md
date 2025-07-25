@@ -1,7 +1,7 @@
 <!-- 👩‍💻 HEADER -->
 # Hi there👋, I’m Sai Pinky Samyuktha Velpuri
 
-🎓 Doctor of Pharmacy (Pharm.D) | 🎓 MS in Health Informatics (Rutgers University, NJ)  
+🎓 Doctor of Pharmacy (Pharm.D) | 🎓 MS in Health Informatics  
 💊 Healthcare | 📊 Health Analytics | 💡 Clinical Informatics
 📍 Based in New Brunswick, New Jersey | Open to Healthcare, Pharma & HealthTech roles
 ---
@@ -15,8 +15,7 @@ I specialize in:
 - Predictive modeling
 - Decision support systems
 - EHR/CDSS systems
-
-Currently seeking **full-time roles**
+currently seeking **full-time roles**
 ---
 
 ## 💼 Work Experience
