@@ -116,5 +116,5 @@ English | Telugu | Hindi | Basic Spanish
 ## 🌐 Let's Connect
 
 📧 Email: [saipinkysamyuktha@gmail.com]  
-🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/dr-pinkysamyuktha)  
+🔗 LinkedIn: (https://linkedin.com/in/dr-pinkysamyuktha)  
 🌍 GitHub: (https://github.com/PinkySamyuktha)
