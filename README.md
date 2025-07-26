@@ -76,7 +76,7 @@ Performed regression analysis and visualizations to identify patterns between bl
 Conducted exploratory data analysis on splicing factor gene expression in cancer datasets. Used `ggplot2` for visualizations and `randomForest` for classification and pattern recognition.
 
 ### 8. Study of Cerecetam on Aphasia in CVA Patients (PharmD Research)
-Led a clinical research study to evaluate the effects of Cerecetam on aphasia in stroke patients. Monitored speech recovery, documented outcomes, and supported publication in peer-reviewed journal.
+Led a clinical research study to evaluate the effects of Cerecetam on aphasia in stroke patients. Monitored speech recovery, documented outcomes, and supported publication in a named journal.
 
 ---
 
