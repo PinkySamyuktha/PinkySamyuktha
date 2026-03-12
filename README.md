@@ -1,9 +1,116 @@
-<!-- 👩‍💻 HEADER -->
+<!-- ========================================================= -->
+<!-- 👩‍💻 PROFILE HEADER -->
+<!-- ========================================================= -->
+
+# Hi there 👋 I'm Sai Pinky Samyuktha Velpuri
+
+🎓 Doctor of Pharmacy (PharmD)  
+🎓 MS in Health Informatics – Rutgers University  
+
+💼 Quality Assurance | GMP Documentation | Quality Systems | Data Integrity  
+📍 Piscataway, New Jersey
+
+Quality professional with a background in **Pharmacy, Healthcare Quality, and Health Informatics**, focused on **GMP documentation, compliance, and regulated healthcare/pharmaceutical environments**.
+
+---
+
+# 👩‍⚕️ About Me
+
+I combine **clinical healthcare knowledge** with **data and documentation discipline** to support quality, compliance, and evidence-driven decision making in regulated environments.
+
+My experience spans **hospital care, clinical research, healthcare documentation, and pharmaceutical quality systems**, with a focus on improving **data integrity, documentation accuracy, and compliance processes**.
+
+I am particularly interested in roles related to:
+
+• Quality Assurance (QA)  
+• GMP Documentation & Compliance  
+• Healthcare & Pharmaceutical Quality Systems  
+• Data Integrity and Regulatory Documentation  
+
+---
+
+# 🧠 Core Areas of Focus
+
+• GMP Documentation & Batch Record Review  
+• Quality Systems & Regulatory Compliance  
+• Data Integrity (ALCOA+ Principles)  
+• Healthcare Documentation & Clinical Data Quality  
+• Research Data Analysis & Evidence Generation  
+
+---
+
+# 🛠 Tools & Technologies
+
+### Data & Analysis
+Python • R • SQL • SAS • SPSS  
+
+### Data Visualization
+Tableau • Excel • Matplotlib • Seaborn • ggplot2  
+
+### Machine Learning / NLP
+Pandas • NumPy • Scikit-learn • NER • SciSpacy • Sentence-BERT  
+
+### Healthcare Systems
+EHR • EMR • CDSS • ICD-10  
+
+### Productivity
+Jupyter Notebooks • MS Office • Google Workspace  
+
+---
+
+# 📊 Selected Projects
+
+### Health Data Analytics (SAS)
+Analyzed treatment outcomes across **3,400 patient records** using statistical modeling and ANOVA to evaluate drug efficacy differences.
+
+### Hypertension Risk Prediction (Python)
+Developed predictive models examining relationships between lifestyle indicators and blood pressure using regression modeling and exploratory analysis.
+
+### Medical Question-Answering System (NLP)
+Built an NLP-based clinical question answering system using **NER, Naive Bayes, and the MedQuAD dataset** to improve medical information retrieval.
+
+### Healthcare Database Management System (SQL)
+Designed a normalized relational database structure to support **patient data management, billing, and scheduling workflows**.
+
+### Hospital Length of Stay Analysis (SPSS)
+Performed statistical testing including **normality tests, ANOVA, and variance analysis** to evaluate departmental LOS differences.
+
+---
+
+# 📚 Research & Publications
+
+• *Study of Cerecetam on Aphasia in Patients with CVA* – Journal of Integral Sciences (2022)  
+• *Review on WHO Recommended & FDA Authorized Drugs for COVID-19* – IJCRT (2022)  
+• *Clinical Manifestations & Management of Parkinson’s Disease* – GIS Science Journal  
+
+---
+
+# 🏅 Certifications
+
+• Foundations of GMP – USP  
+• Lean Six Sigma White Belt  
+• CITI – Biomedical Research Investigators  
+
+---
+
+# 🌍 Languages
+
+English • Telugu • Hindi • Basic Spanish
+
+---
+
+# 🤝 Connect With Me
+
+📧 Email: saipinkysamyuktha@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/dr-pinkysamyuktha  
+🌍 GitHub: https://github.com/PinkySamyuktha
+
+
+---<!-- 👩‍💻 HEADER -->
 # Hi there👋, I’m Sai Pinky Samyuktha Velpuri
 
 🎓 Doctor of Pharmacy (Pharm.D) | 🎓 MS in Health Informatics  
 💊 Healthcare | 📊 Health Analytics | 💡 Clinical Informatics
----
 📍Based in New Brunswick, New Jersey | Open to Healthcare, Pharma & HealthTech roles
 
 ---
