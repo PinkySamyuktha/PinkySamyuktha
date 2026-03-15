@@ -18,6 +18,7 @@ Alongside quality operations, I bring experience in **healthcare data analytics 
 I’m particularly interested in roles where **Quality Assurance, regulatory compliance, and data analytics intersect**, helping organizations improve **documentation accuracy, traceability, and quality system performance** in regulated environments.
 
 I specialize in:
+
 • Pharmaceutical Quality Assurance  
 • GMP Documentation & Batch Record Review  
 • Deviations, CAPA, and Change Control  
@@ -29,7 +30,7 @@ I specialize in:
 
 ## 💼 Work Experience
 
-- **QA Documentation Specialist** | Aspire Pharmaceuticals, USA (*Aug 2025 – Jan 2026*)  
+**QA Documentation Specialist** | Aspire Pharmaceuticals, USA (*Aug 2025 – Jan 2026*)  
 - Reviewed Batch Manufacturing Records (BMRs) to ensure completeness, accuracy, and compliance with GMP documentation standards.
 - Supported documentation review for SOPs, logbooks, and controlled records in accordance with regulatory requirements.
 - Managed document control workflows in **MasterControl**, including document routing, revision tracking, and archival.
@@ -37,7 +38,7 @@ I specialize in:
 - Supported internal audit readiness by organizing quality documentation and regulatory records.
 - Ensured documentation traceability and data integrity in accordance with **ALCOA+ principles and GMP requirements**.
   
-- **Quality & Compliance Research Analyst** | Rutgers University, USA (*May 2024 – Apr 2025*)  
+**Quality & Compliance Research Analyst** | Rutgers University, USA (*May 2024 – Apr 2025*)  
 - Analyzed healthcare datasets using **SPSS** to support research and regulatory-compliant data analysis.
 - Performed data preprocessing and validation to ensure dataset accuracy and integrity.
 - Developed data visualizations and statistical summaries to support research findings.
@@ -50,13 +51,13 @@ I specialize in:
 - Assisted in monitoring medication safety and documentation traceability.
 - Collaborated with physicians and nurses to maintain quality standards in patient care documentation.
 
-- **Clinical Pharmacy Intern** | Lalitha Super Specialty Hospital, India (*Jun 2022 – Jul 2023*)  
+**Clinical Pharmacy Intern** | Lalitha Super Specialty Hospital, India (*Jun 2022 – Jul 2023*)  
 - Completed structured PharmD clinical internship across multiple specialties.
 - Participated in clinical rounds and supported medication therapy monitoring.
 - Reviewed patient records and treatment documentation to ensure proper clinical recordkeeping.
 - Gained exposure to hospital documentation standards and quality practices.
 
-- **Healthcare Quality Documentation Coordinator** | Lalitha Super Specialty Hospital, India (*Aug 2020 – May 2022*)  
+**Healthcare Quality Documentation Coordinator** | Lalitha Super Specialty Hospital, India (*Aug 2020 – May 2022*)  
 - Managed clinical documentation and healthcare records to ensure accurate and accessible information.
 - Maintained standardized documentation practices across hospital departments.
 - Coordinated with clinical staff to verify and update patient records.
