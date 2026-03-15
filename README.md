@@ -1,54 +1,98 @@
 ---<!-- 👩‍💻 HEADER -->
-# Hi there👋, I’m Sai Pinky Samyuktha Velpuri
+# Hi there👋, I’m Samyuktha Velpuri
 
 🎓 Doctor of Pharmacy (Pharm.D) | 🎓 MS in Health Informatics  
-💊 Healthcare | 📊 Health Analytics | 💡 Clinical Informatics
-📍Based in New Brunswick, New Jersey | Open to Healthcare, Pharma & HealthTech roles
+💊 Pharma | 🩺 Healthcare | 🧪 Research | 📊 Data Analytics | 💡 Clinical Informatics
+📍Based in Piscataway, New Jersey | Open to Pharma, Healthcare, Reserach & HealthTech roles
 
 ---
 
 ## 👩‍⚕️ About Me
 
-I'm a healthcare professional turned data enthusiast with a passion for improving patient outcomes through data-driven insights. With a strong academic foundation in **Pharmacy** and a master’s degree in **Health Informatics** from Rutgers University, I’ve worked across domains in pharmacy, clinical research, data analytics, and informatics.
+I'm a Quality Assurance professional with a background in **Pharmacy and Health Informatics**, passionate about strengthening quality systems and improving healthcare processes through **data-driven insights**.
+
+With a **PharmD degree** and a **Master’s in Health Informatics from Rutgers University**, I have worked across healthcare, clinical research, and pharmaceutical manufacturing environments. My experience focuses on **GMP documentation, batch record review, deviations, CAPA, change control, and regulatory compliance** within regulated healthcare and pharmaceutical settings.
+
+Alongside quality operations, I bring experience in **healthcare data analytics and informatics**, using tools such as **Python, SQL, SPSS, SAS, and Tableau** to analyze healthcare datasets, support research compliance, and reinforce **data integrity practices aligned with ALCOA+ principles**.
+
+I’m particularly interested in roles where **Quality Assurance, regulatory compliance, and data analytics intersect**, helping organizations improve **documentation accuracy, traceability, and quality system performance** in regulated environments.
 
 I specialize in:
-- Clinical data analysis
-- Predictive modeling
-- Decision support systems
-- EHR/CDSS systems
-
-currently seeking **full-time roles**
+• Pharmaceutical Quality Assurance  
+• GMP Documentation & Batch Record Review  
+• Deviations, CAPA, and Change Control  
+• Data Integrity (ALCOA+)  
+• Regulatory Compliance (FDA / 21 CFR 210 & 211)  
+• Healthcare Data Analytics & Informatics
 
 ---
 
 ## 💼 Work Experience
 
-- **Volunteer Research Analyst** | Rutgers University, USA (9 months)  
-  Conducted patient dataset analysis and supported outcomes research using SPSS.
+- **QA Documentation Specialist** | Aspire Pharmaceuticals, USA (*Aug 2025 – Jan 2026*)  
+- Reviewed Batch Manufacturing Records (BMRs) to ensure completeness, accuracy, and compliance with GMP documentation standards.
+- Supported documentation review for SOPs, logbooks, and controlled records in accordance with regulatory requirements.
+- Managed document control workflows in **MasterControl**, including document routing, revision tracking, and archival.
+- Assisted in documentation and review of **deviations, CAPA, and change control records**.
+- Supported internal audit readiness by organizing quality documentation and regulatory records.
+- Ensured documentation traceability and data integrity in accordance with **ALCOA+ principles and GMP requirements**.
+  
+- **Quality & Compliance Research Analyst** | Rutgers University, USA (*May 2024 – Apr 2025*)  
+- Analyzed healthcare datasets using **SPSS** to support research and regulatory-compliant data analysis.
+- Performed data preprocessing and validation to ensure dataset accuracy and integrity.
+- Developed data visualizations and statistical summaries to support research findings.
+- Maintained structured research documentation to ensure reproducibility and traceability.
+- Supported preparation of research publications and conference presentations.
 
-- **Pediatric PharmD Intern** | Lifeline Hospital, India (4 months)  
-  Assisted pediatric care team with clinical documentation and patient monitoring.
+- **Healthcare Quality Pharmacist** | SIMS Hospital, India (*Aug 2022 – Jul 2023*)
+- Supported medication management and clinical documentation practices across multiple hospital departments.
+- Reviewed patient charts and treatment documentation to ensure accuracy and protocol adherence.
+- Assisted in monitoring medication safety and documentation traceability.
+- Collaborated with physicians and nurses to maintain quality standards in patient care documentation.
 
-- **Duty Doctor & Pharmacist** | SIMS Hospital, India (4 months)  
-  Involved in EHR data entry, pharmacy reviews, and medication reconciliation.
+- **Clinical Pharmacy Intern** | Lalitha Super Specialty Hospital, India (*Jun 2022 – Jul 2023*)  
+- Completed structured PharmD clinical internship across multiple specialties.
+- Participated in clinical rounds and supported medication therapy monitoring.
+- Reviewed patient records and treatment documentation to ensure proper clinical recordkeeping.
+- Gained exposure to hospital documentation standards and quality practices.
 
-- **Duty Doctor & Pharmacist** | Aswani Nursing Home, India (8 months)  
-  Supported multi-specialty team with pre/post-op monitoring and pharmacy coordination.
+- **Healthcare Quality Documentation Coordinator** | Lalitha Super Specialty Hospital, India (*Aug 2020 – May 2022*)  
+- Managed clinical documentation and healthcare records to ensure accurate and accessible information.
+- Maintained standardized documentation practices across hospital departments.
+- Coordinated with clinical staff to verify and update patient records.
+- Supported internal quality monitoring through organized documentation management.
 
-- **Clinical PharmD Intern** | Lalitha Super Specialty Hospital, India (11 months)  
-  Shadowed providers, validated treatment records, and supported medication audits.
-
-- **Medical Coordinator** | Lalitha Super Specialty Hospital, India (6 months)  
-  Facilitated discharge documentation and participated in clinical data audits.
 ---
 
 ## 🔧 Technical skills & Tools                              
-- **Programming & Analysis**: Python, Advanced Python, R, SQL, SAS, SPS
-- **Statistical Tools**: SPSS, ARIMA, SARIMA, Regression, ANOVA
-- **Data Visualization**: Tableau, Excel, Matplotlib, ggplot2, Seaborn  
-- **Healthcare Systems**: EHR, CDSS, EMR Logs, ICD‑10, Cybersecurity
-- **ML & NLP**: Pandas, NumPy, NER, QA system, Naive Bayes, SciSpacy, Sentence-BERT
-- **Productivity & Versioning** - Jupyter Notebooks, Google Workspace, MS Office
+### Quality & Compliance
+- Quality Assurance
+- GMP
+- Batch Record Review
+- Deviations
+- CAPA
+- Change Control
+- SOP Management
+- Document Control
+- Data Integrity (ALCOA+)
+- LIMS
+- Regulatory Compliance
+- Audit Readiness
+
+### Systems & Tools
+- MasterControl
+- Electronic Quality Management Systems (eQMS)
+
+### Data Analytics & Informatics
+- Python
+- SQL
+- SPSS
+- SAS
+- Tableau
+- Data Analysis & Analytics
+- Data Visualization
+- Healthcare Data Management
+
 ---
 
 ## 📚 Academic Projects
@@ -86,8 +130,12 @@ Led a clinical research study to evaluate the effects of Cerecetam on aphasia in
 - “Clinical Manifestations & Management of Parkinson’s Disease” – *GIS Science Journal*
 ---
 
-## 🧾 Certifications
+## 🧾 Certifications & Licensure
 
+- Foundations of GMP – USP
+- Lean Six Sigma White Belt
+- ICH Q9 – Quality Risk Management
+- ICH Q10 – Pharmaceutical Quality System
 - CITI – Biomedical Research Investigators and Key Personnel  
 - Pharmacy License – Andhra Pradesh State Pharmacy Council (Valid through 2028)
 ---
